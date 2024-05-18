@@ -1,0 +1,11 @@
+[project]
+name = "simple_calculator"
+version = "0.0.1"
+description = "using python kivy libs for the simple calculator"
+readme = "README.md"
+requires-python = ">=3.8"
+
+dependencies  = [
+	"kivy",
+	"fastapi",
+]
